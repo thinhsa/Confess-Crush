@@ -1,8 +1,10 @@
 const CONFIG = {
     titleWeb: "HÔM NAY LÀ 20/10 ĐẤYYY",
-    introTitle: 'NHÉ CÁC BẠN GÁI LỚP 11 CHUYÊN ANH',
-    introDesc: `Trái đất hình cầu, nhưng 20/10 vẫn là ngày ở đỉnh chóp
-                Còn vị trí chúng mày thì luôn ở TOPPPPP !`,
+    introTitle: 'Nhé các chị em của Page này giúp bạn thúc đẩy quá trình học tiếng anh',
+    introDesc: `Trái đất tròn, lòng tôi góc cạnh
+    Ngày bạn đến, lòng tôi bằng phẳng
+    Trái đất hình cầu, nhưng 20/10 vẫn là ngày ở đỉnh chóp
+    Còn vị trí chị em thì luôn ở đỉnh TOPPPPP !`,
     btnIntro: '^^Ahihi^^',
     title: 'Chúc 20/10 chị em phải luôn xinh đẹp, rạng rỡ, giữ được nụ cười trên môi. Học thì phải giỏi. Thi gì đỗ nấy, 9.0 IELTS, 120 TOEFL giải nhất HSG,....'',
     desc: 'Hôm nay là ngày của các chị em, mặc dù là còn nhiều phiền muộn cũ, nhưng đọc đến đây thì đã quên hết đi rồi chứ? ',
