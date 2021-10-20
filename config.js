@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "HÔM NAY LÀ 20/10 ĐẤYYYYY",
+    introTitle: 'NHÉ CÁC BẠN GÁI LỚP 11 CHUYÊN ANH',
+    introDesc: `Trái đất hình cầu, nhưng 20/10 vẫn là ngày ở đỉnh chóp`,
+    btnIntro: '^^Ahihi^^',
+    title: 'Chúc chúng mày 20/10 ngày càng xinh đẹp nè, giỏi giang hưn, hiền dịu, nết na, vui vẻ, yêu đời, không sầu muộn; thi gì đỗ nấy, mà hỏi lấy thì ai cũng đồng ý =)))))',
+    desc: 'Chúng mày thấy con trai lớp 11 Anh đẹp trai, tuyệt vời, tâm lý hơm?? ',
+    btnYes: 'Chắc chắn, dĩ nhiên, 100% là như thế rồi',
+    btnNo: 'Không nha, lêu lêu ',
+    question: 'Các cậu có muốn gửi cho 7 bạn con trai điều gì muốn nói không nè??',
+    btnReply: 'Gửi 7 thằng con trai',
+    reply: 'Các bạn con trai lớp mình tâm lý ghê á. Cảm ơn vì đã chúc bọn mình 20/10 nha. Tuyệt vời ông mặt trời cực luôn í!',
+    mess: 'Bọn tao cảm ơn nha, biết là chúng mày sẽ nói thế mà hihi 😘😘',
+    messDesc: 'nói vậy chứ, 20/10 phải thật vui vẻ nhé, thỏa sức mà chơi, bỏ lại deadlines và XÕA HẾT MÌNH đó nha!! Còn không biết xem cái gì cho vui thì phải click xem cái này nè:',
+    btnAccept: 'Okiii lun <3, đâu mở đi tao xem',
+    messLink: 'https://fb.watch/8L87_Kkeym/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
