@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'NHÉ CÁC BẠN GÁI LỚP 11 CHUYÊN ANH',
     introDesc: `Trái đất hình cầu, nhưng 20/10 vẫn là ngày ở đỉnh chóp`,
     btnIntro: '^^Ahihi^^',
-    title: 'Chúc chúng mày 20/10 ngày càng xinh đẹp nè, giỏi giang hưn, hiền dịu, nết na, vui vẻ, yêu đời, không sầu muộn; thi gì đỗ nấy, mà hỏi lấy thì ai cũng đồng ý =)))))',
+    title: 'Chúc chúng mày 20/10 ngày càng xinh đẹp, giỏi giang, hiền dịu, nết na, vui vẻ, yêu đời, không sầu muộn; thi gì đỗ nấy, mà hỏi lấy thì ai cũng đồng ý =))',
     desc: 'Chúng mày thấy con trai lớp 11 Anh đẹp trai, tuyệt vời, tâm lý hơm?? ',
     btnYes: 'Chắc chắn, dĩ nhiên, 100% là như thế rồi',
     btnNo: 'Không nha, lêu lêu ',
